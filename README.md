@@ -6,9 +6,9 @@ Approach : Machine learning using python
 Accuracy by RandomForestClassifier : 85%
 
 Dependencies:
-NumPy
-Pandas
-Matplotlib
-Seaborn
-SciKit-Learn
-SciPy
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciKit-Learn
+- SciPy
