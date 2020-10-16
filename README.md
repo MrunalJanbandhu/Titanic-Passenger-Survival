@@ -8,7 +8,7 @@ Accuracy by RandomForestClassifier : 85%
 Dependencies:
 NumPy
 Pandas
-SciKit-Learn
-SciPy
 Matplotlib
 Seaborn
+SciKit-Learn
+SciPy
